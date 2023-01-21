@@ -1,4 +1,4 @@
-package CabinCrew;
+package cabinCrew;
 
 public class CabinCrewMember {
     private Rank rank;

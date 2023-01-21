@@ -1,5 +1,5 @@
-import CabinCrew.Pilot;
-import CabinCrew.Rank;
+import cabinCrew.Pilot;
+import cabinCrew.Rank;
 import org.junit.Before;
 import org.junit.Test;
 

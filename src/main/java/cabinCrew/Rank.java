@@ -1,10 +1,10 @@
-package CabinCrew;
+package cabinCrew;
 
 public enum Rank {
     CAPTAIN,
     FIRST_OFFICER,
     PURSER,
     FLIGHT_ATTENDANT,
-    PILOT
+    PILOT;
 }
 
