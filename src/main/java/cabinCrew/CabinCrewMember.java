@@ -16,4 +16,8 @@ public class CabinCrewMember {
     public String getName() {
         return name;
     }
+
+    public String relayMessage(String string){
+        return string;
+    }
 }

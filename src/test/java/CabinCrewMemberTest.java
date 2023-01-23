@@ -41,6 +41,11 @@ public class CabinCrewMemberTest {
         assertEquals("Susie", purser.getName());
     }
 
+    @Test
+    public void  canRelayMessage(){
+        assertEquals("Welcome aboard", flightAttendant.relayMessage("Welcome aboard"));
+    }
+
 
 
 
